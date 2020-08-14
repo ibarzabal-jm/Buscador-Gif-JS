@@ -1,2 +1,6 @@
 # Buscador Gif JS
- Encuentra gif al azar de lo que quieras
+ Encuentra un gif al azar de lo que quieras
+
+## Herramientas
+
+Giphy apk
