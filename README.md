@@ -3,4 +3,4 @@
 
 ## Herramientas
 
-Giphy apk
+Giphy api
