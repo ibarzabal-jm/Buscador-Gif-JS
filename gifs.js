@@ -5,9 +5,9 @@ btnCargarListado.addEventListener('click', cargarListadoGifs);
 
 let apiKey = 'Hhli4pP1vrJ8QgAFm85OogcEUA0bw1Xw';
 
-//
 
-let url = 'https://api.giphy.com/v1/gifs/search'; //endpoint
+
+let url = 'https://api.giphy.com/v1/gifs/search'; 
 
 
 
