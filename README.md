@@ -1,6 +1,23 @@
 # Buscador Gifs en Java Script
  Encuentra un gif al azar de lo que quieras
 
-## Herramientas
+## Comenzando 🚀
 
-Giphy api
+_Concepto:_
+
+* La idea era hacer un uso de una API, en este caso giphy developers, utilizando las herramientas detalladas a continuacion
+
+## Herramientas 🛠️
+
+_Desarrollado con:_
+
+* JavaScript
+* HTML5
+* CSS
+
+
+
+## Autor ✒️
+
+
+* **Juan Manuel Ibarzabal Salles** - *Fullstack* - [ibarzabal-jm](https://github.com/ibarzabal-jm)
