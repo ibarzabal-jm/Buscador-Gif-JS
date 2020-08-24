@@ -20,4 +20,4 @@ _Desarrollado con:_
 ## Autor ✒️
 
 
-* **Juan Manuel Ibarzabal Salles** - *Fullstack* - [ibarzabal-jm](https://github.com/ibarzabal-jm)
+* **Juan Manuel Ibarzabal Salles** - [ibarzabal-jm](https://github.com/ibarzabal-jm)
