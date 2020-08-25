@@ -6,7 +6,7 @@
 _Concepto:_
 
 * La idea era hacer un uso de una API, en este caso giphy developers, utilizando las herramientas detalladas a continuacion
-* Agregar la cantidad de gifs que desee el usuario.
+
 
 ## Herramientas 🛠️
 
