@@ -14,7 +14,7 @@ _Desarrollado con:_
 
 * JavaScript
 * HTML5
-* CSS
+* CSS (Bootstrap 4)
 
 
 
