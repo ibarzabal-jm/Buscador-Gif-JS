@@ -15,6 +15,7 @@ _Desarrollado con:_
 * JavaScript
 * HTML5
 * CSS (Bootstrap 4)
+* [API Giphy Developers](https://developers.giphy.com/)
 
 
 
